@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OrderAccumulator": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../OrderAccumulator.cfg"
+    }
+  }
+}
